@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3socialstorage4c4aace4",
+  "bucketName": "social-storage-4c4aace4",
+  "policyUUID": "891099cb",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

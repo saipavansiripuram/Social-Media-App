@@ -1,0 +1,24 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-social-staging-104406-authRole",
+      "UnauthRoleArn": "arn:aws:iam::458795282797:role/amplify-social-staging-104406-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::458795282797:role/amplify-social-staging-104406-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-social-staging-104406-deployment",
+      "UnauthRoleName": "amplify-social-staging-104406-unauthRole",
+      "StackName": "amplify-social-staging-104406",
+      "StackId": "arn:aws:cloudformation:ap-south-1:458795282797:stack/amplify-social-staging-104406/64388250-8ab6-11ee-b8b5-0ad538e1836e",
+      "AmplifyAppId": "d253pe59iczkde"
+    },
+    "categories": {
+      "auth": {
+        "notJustFriends": {},
+        "Social": {}
+      },
+      "storage": {
+        "s3socialstorage4c4aace4": {}
+      }
+    }
+  }
+}
